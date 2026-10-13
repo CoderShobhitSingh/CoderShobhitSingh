@@ -1,14 +1,14 @@
 # 👨‍💻 Hi, I'm Shobhit Singh (@CoderShobhitSingh)
 
 <p align="left">
-  <a href="https://codershobhitsingh.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  <a href="https://codershobhitsingh.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" height="28" />
+  </a>
+  <a href="https://www.linkedin.com/in/shobhit-singh-51940a267/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
   </a>
   <a href="mailto:shobhitsingh.cs22@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/shobhit-singh-51940a267/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="28" />
   </a>
 </p>
 
