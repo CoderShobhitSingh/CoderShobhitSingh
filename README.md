@@ -1,16 +1,14 @@
 # 👨‍💻 Hi, I'm Shobhit Singh (@CoderShobhitSingh)
 
-<p align="left">
-  <a href="https://codershobhitsingh.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Portfolio-2563EB?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" height="28" />
-  </a>
-  <a href="https://www.linkedin.com/in/shobhit-singh-51940a267/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" height="28" />
-  </a>
-  <a href="mailto:shobhitsingh.cs22@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="28" />
-  </a>
-</p>
+<div align="left">
+
+| Pipeline / Endpoint | Channel | Status | Action |
+| :--- | :--- | :--- | :--- |
+| `GET /production/portfolio` | 🌐 **Web** | ![](https://img.shields.io/badge/Status-Online_200_OK-22c55e?style=flat-square) | [**View Live App ↗**](https://codershobhitsingh.github.io/portfolio/) |
+| `CONNECT /talent/network` | 💼 **LinkedIn** | ![](https://img.shields.io/badge/Response_Time-%3C_2h-0A66C2?style=flat-square) | [**Review Profile & Network ↗**](https://www.linkedin.com/in/shobhit-singh-51940a267/) |
+| `POST /inbox/interview` | ✉️ **Direct Mail** | ![](https://img.shields.io/badge/Availability-Open_to_Work-8b5cf6?style=flat-square) | [**Schedule Chat / Send Mail ↗**](mailto:shobhitsingh.cs22@gmail.com?subject=Interview%20Inquiry%20-%20Full%20Stack%20Role) |
+
+</div>
 
 ---
 
